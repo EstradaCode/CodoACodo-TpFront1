@@ -1,0 +1,41 @@
+#logo{
+    height: auto;
+    width: 120px;
+}
+#articulo{
+ background-image: url("../imagenes_integrador_front/ba1.jpg");
+ filter: brightness(50%);
+ background-position: center;
+ object-fit: cover;
+ height: 95vh;
+ width: auto;
+ padding: 1px;
+ 
+ 
+}
+
+#presentacion{
+    width: 55vh;
+    height: 35vh;
+    color: #fff !important;
+    position: relative;
+    top: 50vh;
+    left: 65vh;
+    text-align: left;
+    
+}
+#footerid{
+    width: auto;
+    height: 50;
+    background-color:#1e516e;
+
+}
+.btn-enviado{
+    background-color: #96c93e;
+}
+.nav-link{
+    color: #fff;
+}
+.bg-gris{
+    background-color: #353a40;
+}
